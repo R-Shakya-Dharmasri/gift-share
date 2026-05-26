@@ -35,6 +35,18 @@ body {
   transition: 0.25s;
 }
 
+.home h1{
+  margin: 0;
+
+  text-align: center;
+
+  font-size: clamp(1.5rem, 5vw, 2.5rem);
+
+  color: rgb(116, 0, 0);
+
+  padding: 0 10px;
+}
+
 .home button {
   padding: 12px 28px;
   border: none;
